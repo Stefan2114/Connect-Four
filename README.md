@@ -22,3 +22,6 @@ This project is an example that was build as a homework for my last assigment in
 * The score for each move is calculating taking in consideration all the pices from the board
 * Each move is evaluated based on its potential impact on the game. Positive points are assigned to favorable moves, while negative points are assigned to unfavorable ones
 
+## Preview
+
+![image](https://github.com/Stefan2114/Connect-Four/assets/147135917/9e2ef7d7-8964-4909-88ad-be867d583127)
