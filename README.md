@@ -26,15 +26,5 @@ This project is an example that was build as a homework for my last assigment in
 
 ![image](https://github.com/Stefan2114/Connect-Four/assets/147135917/9e2ef7d7-8964-4909-88ad-be867d583127)
 
-
-
-
-
-
-
-
-
-
-
 ![image](https://github.com/Stefan2114/Connect-Four/assets/147135917/e02cdf5f-b615-4da4-8ffe-58415dec273b)
 
