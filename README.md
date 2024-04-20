@@ -11,14 +11,14 @@ This project is an example that was build as a homework for my last assigment in
 *Change from console UI to graphic UI
 
 ##Futures:
-*Drop a piece on one of the available columns
-*Connect 4 pieces on a rows/column/diagonal
-*The AI will try to stop you from winning
+* Drop a piece on one of the available columns
+* Connect 4 pieces on a rows/column/diagonal
+* The AI will try to stop you from winning
 
 ##Implementation:
-*Layered architecture
-*Errors handling
-*AI is implemented using the minmax algorithm
-*The score for each move is calculating taking in consideration all the pices from the board
-*Each move is evaluated based on its potential impact on the game. Positive points are assigned to favorable moves, while negative points are assigned to unfavorable ones
+* Layered architecture
+* Errors handling
+* AI is implemented using the minmax algorithm
+* The score for each move is calculating taking in consideration all the pices from the board
+* Each move is evaluated based on its potential impact on the game. Positive points are assigned to favorable moves, while negative points are assigned to unfavorable ones
 
