@@ -16,6 +16,7 @@ This project is an example that was build as a homework for my last assignment i
 * The AI will try to stop you from winning
 
 ## Implementation:
+* Object Oriented Programming
 * Layered architecture
 * Errors handling
 * AI is implemented using the minmax algorithm
