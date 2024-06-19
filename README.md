@@ -11,9 +11,9 @@ This project was build as a homework for my last assignment in the first semeste
 * Change from console UI to graphic UI
 
 ## Features:
-* Drop a piece on one of the available columns
-* Connect 4 pieces on a rows/column/diagonal
-* The AI will try to stop you from winning
+* Drop a piece on one of the available columns by using the left-click button
+* Objective: connect 4 pieces on a rows/column/diagonal
+* The AI will try to defeate you
 
 ## Implementation:
 * Object Oriented Programming
